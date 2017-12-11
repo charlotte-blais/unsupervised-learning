@@ -1,2 +1,2 @@
 # unsupervised-learning
-My answers to questions from An Introduction to Statistical Learning Ch10
+My answers and discussion of questions from An Introduction to Statistical Learning Ch10
